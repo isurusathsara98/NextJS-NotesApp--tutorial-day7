@@ -1,3 +1,12 @@
+My version of notes App
+
+<img width="1183" height="568" alt="myversion" src="https://github.com/user-attachments/assets/8b672399-d37d-4bc2-8488-8d8027acddb5" />
+
+
+GPT version
+<img width="1000" height="565" alt="Gptversion" src="https://github.com/user-attachments/assets/e4777210-3a77-4a41-bbc6-ddfa06fe60bc" />
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
